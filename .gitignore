@@ -1,0 +1,11 @@
+.idea
+__pycache__
+
+src7
+
+./venv/
+./CS50Flask/venv/
+./CS50Flask/venv/Lib
+./CS50Flask/venv/Scripts
+./CS50Flask/venv/Include
+./.idea

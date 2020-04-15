@@ -1,0 +1,9 @@
+---
+title: "R Notebook"
+author: omer
+date: 06/04/2020
+output: html_notebook
+---
+
+This is a CS50-inspired Flask version for the app.
+see: https://www.youtube.com/watch?v=zdgYw-3tzfI
